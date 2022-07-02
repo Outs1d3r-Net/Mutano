@@ -106,7 +106,7 @@ def main():
                                  \       VV      by: Outs1d3r-NET
 ''')
 	print("#"*80)
-	print("[+] Wordlist as been created in:",str(os.path.realpath(sys.argv[2])),"\n[+] Date:",wordtimes,"\n[+] Lines:",str(clines))
+	print("[+] Wordlist has been created in:",str(os.path.realpath(sys.argv[2])),"\n[+] Date:",wordtimes,"\n[+] Lines:",str(clines))
 	print("#"*80)
 
 if __name__ == '__main__':
