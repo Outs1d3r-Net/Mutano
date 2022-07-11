@@ -8,6 +8,6 @@ $($p3 -m pip install -r requirements.txt)
 
 echo "Create symbolic link..."
 chmod a+x mutano.py
-ln -s $pathmutano/mutano.py /usr/sbin/mutano
+ln -s "$pathmutano/mutano.py" /usr/sbin/mutano
 
 mutano
