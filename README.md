@@ -1,5 +1,5 @@
 # Mutano  
-> For generate wordlist with mutation  
+> For generate wordlist with permutation  
 [![Banner](img/00.png)]()  
 ### Dependencies:  
 ```
